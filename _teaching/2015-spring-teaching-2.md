@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Tutor"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,7 +8,8 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+From 2017-2019 I tutored first year students on topics in maths, astrophysics, and the properties of matter.
+
 
 Heading 1
 ======
