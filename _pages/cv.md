@@ -17,11 +17,11 @@ Education
 Research experience
 ======
 
-* MSc (by research) Project: Magnetophonon Oscillations in Graphene with a Large Applied DC Bias Voltage
+* MSc (by research) project: Magnetophonon Oscillations in Graphene with a Large Applied DC Bias Voltage
 
-* MPhys Project: A Correlated Percolation Model for the Spread of Ash Dieback
+* MPhys project: A Correlated Percolation Model for the Spread of Ash Dieback
 
-* Summer Project: Incorporating kinetic effects on Nernst advection in inertial fusion simulations
+* Summer research project: Incorporating kinetic effects on Nernst advection in inertial fusion simulations
 
 Publications
 ======
