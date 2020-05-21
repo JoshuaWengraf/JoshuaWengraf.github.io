@@ -1,21 +1,11 @@
 ---
 title: "Tutor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Undergraduate courses"
+permalink: /teaching/2017-2019_teaching
+venue: "The University of Manchester, School of Physics and Astronomy"
 date: 2015-01-01
 location: "City, Country"
 ---
 
 From 2017-2019 I tutored first year students on topics in maths, astrophysics, and the properties of matter.
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
