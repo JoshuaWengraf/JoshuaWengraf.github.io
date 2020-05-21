@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Strong magnetophonon oscillations in extra-large graphene"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.nature.com/articles/s41467-019-11379-3
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2019-07-29
+venue: 'Nature Communications'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'P. Kumaravadivel, M. T. Greenaway, D. Perello, A. Bedryugin, J, Birkbeck, J. Wengraf, S.Lui, J. H Edgar, A. K. Geim, L. Eaves and R. Krishna Kumar (2019). &quot;"Strong magnetophonon oscillations in extra-large graphene".&quot; <i>Nature Communications</i>. 10(1):3334.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
