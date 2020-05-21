@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research Experience"
-permalink: /ResearchExperience/
+title: "Public Engagement"
+permalink: /PublicEngagement/
 author_profile: true
 ---
 
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.ResearchExperience reversed %}
+{% for post in site.PublicEngagement reversed %}
   {% include archive-single.html %}
 {% endfor %}
