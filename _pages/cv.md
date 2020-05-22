@@ -41,4 +41,7 @@ Teaching
   
 Interests
 ======
+<ul>{% for post in site.Interests %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
