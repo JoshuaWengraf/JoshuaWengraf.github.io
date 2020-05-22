@@ -14,18 +14,24 @@ Education
 * MPhys in Physics, The University of Manchester University, 2013 - 2017
 * MSc in Physics (by research),  Lancaster University, 2017-2020
 
-Research experience
-======
-<ul>{% for post in site.ResearchExperience %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Research experience
+======
+<ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Public Engagement
+======
+  <ul>{% for post in site.PublicEngagement %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
   
 Teaching
 ======
@@ -33,9 +39,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  Public Engagement
+Interests
 ======
-  <ul>{% for post in site.PublicEngagement %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
