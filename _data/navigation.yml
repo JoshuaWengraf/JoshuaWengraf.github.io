@@ -1,17 +1,12 @@
 # main links links
 main:
-  - title: "Home"
-    url: /Home/
+
+  - title: "Research Experience"
+    url: /ResearchExperience/    
 
   - title: "Public Engagement"
     url: /PublicEngagement/    
 
-  - title: "Research Experience"
-    url: /ResearchExperience/    
-    
-  - title: "Interests"
-    url: /Interests/
-        
   - title: "Teaching"
     url: /Teaching/
     
