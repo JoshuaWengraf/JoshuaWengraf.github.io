@@ -1,7 +1,7 @@
 
-title: "Magnetophonon Oscillations in Graphene with a Large Applied DC Bias Voltage"
+title: "STEMsoc"
 collection: ResearchExperience
-permalink: MagnetophononOscillationsInGrapheneWithALargeAppliedDCBiasVoltage
+permalink: STEMsoc
 date: 2019-07-29
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-019-11379-3'
