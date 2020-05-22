@@ -1,5 +1,5 @@
 ---
-title: "Summer research project: Incorporating kinetic effects on Nernst advection in inertial fusion simulations"
+title: "Incorporating kinetic effects on Nernst advection in inertial fusion simulations"
 excerpt: "Used a Vlasov-Fokker-Plank (Fortran 77) code to model laser heated, non- local, one dimensional electron transport in the presence of an applied magnetic field
 <br/><img src='/images/500x300.png'>"
 collection: portfolio
