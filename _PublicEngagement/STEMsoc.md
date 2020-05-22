@@ -1,6 +1,6 @@
 
 title: "STEMsoc"
-collection: ResearchExperience
+collection: STEMsoc
 permalink: STEMsoc
 date: 2019-07-29
 venue: 'Nature Communications'
