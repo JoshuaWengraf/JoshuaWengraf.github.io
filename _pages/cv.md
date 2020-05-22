@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MPhys in Physics, The University of Manchester University, 2013 - 2017
-* MSc in Physics (by research),  Lancaster University, 2017-2020
+* MSc in Physics (by research),  Lancaster University, 2018-2020
 
 Publications
 ======
