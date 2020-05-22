@@ -1,0 +1,8 @@
+---
+title: "MSc (by research) Project: A Correlated Percolation Model for the Spread of Ash Dieback"
+excerpt: "For my final year MPhys project I developed a simulation in Python to model the spread of ash dieback in the UK"
+<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+For my final year masters project, in collaboration with Daniel Pettitt and supervised by Dr. Ingo Dierking, I developed a simulation to model the spread of ash dieback in the UK. This was fit to data [1] provided by the forestry commission. The simulation was executed on a square grid, with infected squares infecting neighboring squares with probability p and killing them with probability 1-p; these represent infection and immunisation respectfully. We also introduced a probability for an infected square to infect any other random square on the grid. We fit values of p to the model to determine whether the epidemic was dominated by short range or long-range infections
