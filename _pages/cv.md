@@ -20,7 +20,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Research experience
+Research Projects
 ======
 <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
