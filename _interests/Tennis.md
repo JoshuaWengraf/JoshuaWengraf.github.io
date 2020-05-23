@@ -1,7 +1,7 @@
 ---
 title: "Tennis"
 excerpt: "Tennis"
-collection: Interests
+collection: interests
 ---
 
 Tennis
