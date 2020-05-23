@@ -1,6 +1,6 @@
 ---
 title: "STEMsoc"
-collection: public_engagement
+collection: portfolio
 permalink: /public_engagment/STEMsoc
 location: "City, Country"
 ---
