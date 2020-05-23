@@ -1,6 +1,6 @@
 ---
 title: "Tutor"
-collection: pulic_engagment
+collection: public_engagement
 type: "Undergraduate courses"
 permalink: /PublicEngagment/STEMsoc
 venue: "The University of Manchester, School of Physics and Astronomy"
