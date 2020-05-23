@@ -245,7 +245,7 @@ defaults:
    #_public_engagement
        - scope:
       path: ""
-      type: PublicEngagement
+      type: public_engagement
     values:
       layout: single
       author_profile: true
