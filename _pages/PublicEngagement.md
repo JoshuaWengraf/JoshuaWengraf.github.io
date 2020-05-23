@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Public Engagement"
-permalink: /PublicEngagement/
+permalink: /public_engagement/
 author_profile: true
 ---
 
