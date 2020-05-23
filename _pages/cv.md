@@ -28,7 +28,7 @@ Research Projects
   
 Public Engagement
 ======
-  <ul>{% for post in site.PublicEngagement %}
+  <ul>{% for post in site.publicEngagement %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
