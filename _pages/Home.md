@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /Home/
 ---
 
-I am a Master 
+I am a Master of...
 
