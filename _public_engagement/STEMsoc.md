@@ -1,5 +1,5 @@
 ---
-title: "Tutor"
+title: "STEMsoc"
 collection: public_engagement
 type: "Undergraduate courses"
 permalink: /public_engagment/STEMsoc
