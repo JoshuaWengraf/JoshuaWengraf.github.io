@@ -39,4 +39,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+Interests
+======
+  <ul>{% for post in site.interests %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
