@@ -28,7 +28,7 @@ Research Projects
   
 Public Engagement
 ======
-  <ul>{% for post in site.publicEngagement %}
+  <ul>{% for post in site.public_engagement %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -39,9 +39,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Interests
-======
-<ul>{% for post in site.Interests %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
