@@ -1,7 +1,7 @@
 ---
 title: "Dancing"
 excerpt: "Dancing"
-collection: Interests
+collection: interests
 ---
 
 Dancing
