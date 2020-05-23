@@ -1,5 +1,8 @@
 # main links links
-main:
+main: 
+
+   - title: "Home"
+    url: /Home/    
 
   - title: "Research Experience"
     url: /ResearchExperience/    
@@ -9,6 +12,9 @@ main:
 
   - title: "Teaching"
     url: /Teaching/
+    
+  - title: "Interests"
+    url: /Interests/    
     
   - title: "CV"
     url: /CV/
