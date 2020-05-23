@@ -2,7 +2,7 @@
 title: "Tutor"
 collection: public_engagement
 type: "Undergraduate courses"
-permalink: /PublicEngagment/STEMsoc
+permalink: /public_engagment/STEMsoc
 venue: "The University of Manchester, School of Physics and Astronomy"
 date: 2019-01-01
 location: "City, Country"
