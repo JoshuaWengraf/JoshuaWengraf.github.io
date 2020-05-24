@@ -1,7 +1,7 @@
 ---
 title: "Graphene NOWNANO CDT"
 collection: public_engagement
-permalink: /public_engagment/STEMsoc
+permalink: /public_engagment/GrapheneNOWNANO
 location: "City, Country"
 ---
 
