@@ -1,5 +1,5 @@
 ---
-title: "Tennis"
+title: "Dancing"
 collection: interests
 permalink: /Interests/Tennis
 location: "City, Country"
