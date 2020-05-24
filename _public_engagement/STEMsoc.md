@@ -1,7 +1,6 @@
 ---
 title: "STEMsoc"
 collection: portfolio
-permalink: /public_engagment/STEMsoc
 excerpt: "<br/><img src='/images/STEMsocLogo.jpg'> <img src='/images/TraveLab.jpg'>"
 location: "City, Country"
 ---
