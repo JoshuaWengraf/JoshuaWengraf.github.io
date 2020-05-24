@@ -2,7 +2,7 @@
 title: "A Correlated Percolation Model for the Spread of Ash Dieback"
 excerpt: "For my final year MPhys project I developed a simulation in Python to model the spread of ash dieback in the UK. This work was done in collaboration with Daniel Pettitt and supervised by Dr. Ingo Dierking.
 <br/><img src='/images/ChalaraSimulationExample.PNG'> <img src='/images/R(p).png'>"
-collection: portfolio
+collection: research_experience
 ---
 
 For my final year masters project, in collaboration with Daniel Pettitt and supervised by Dr. Ingo Dierking, I developed a simulation to model the spread of ash dieback in the UK. The simulation was executed on a square grid, with infected squares infecting neighboring squares with probability p and killing them with probability 1-p; these represent infection and immunisation respectfully. We also introduced a probability for infected squares to infect any other random square on the grid. We fit values of p to data provided by the forrestry commission. This gives insight as to whether the epidemic was dominated by short range or long-range infections.
