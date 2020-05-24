@@ -1,7 +1,6 @@
 ---
 title: "Graphene NOWNANO CDT"
 collection: public_engagement
-excerpt: "<br/><img src='/images/gnownano-logo.png'>"
 location: "City, Country"
 ---
 
