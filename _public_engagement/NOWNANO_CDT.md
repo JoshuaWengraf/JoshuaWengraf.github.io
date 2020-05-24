@@ -1,6 +1,6 @@
 ---
 title: "Graphene NOWNANO CDT"
-collection: public_engagement
+collection: portfolio
 location: "City, Country"
 ---
 
