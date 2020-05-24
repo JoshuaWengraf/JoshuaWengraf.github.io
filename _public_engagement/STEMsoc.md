@@ -1,7 +1,6 @@
 ---
 title: "STEMsoc"
 collection: portfolio
-excerpt: "<br/><img src='/images/STEMsocLogo.jpg'> <img src='/images/TraveLab.jpg'>"
 location: "City, Country"
 ---
 
