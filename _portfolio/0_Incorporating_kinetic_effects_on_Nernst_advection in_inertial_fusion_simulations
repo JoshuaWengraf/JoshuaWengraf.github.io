@@ -7,4 +7,4 @@ collection: portfolio
 
 For my summer reserach project I performed simulations to model laser heated, non-local, one dimensional electron transport in the presence of an applied magnetic field. This essentially involved experimenting with different plasma parameters to enhance the confinement. Plasma paremeters were input via a shell script and the simulations were run in Fortran 77.
 
-<br/><img src='/images/R(p).FluxLimiter.jpg'>
+<br/><img src='/images/FluxLimiter.jpg'>
