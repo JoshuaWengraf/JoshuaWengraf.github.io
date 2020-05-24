@@ -4,7 +4,7 @@ main:
     url: /home/
     
   - title: "Research Experience"
-    url: /portfolio/    
+    url: /research_experience/    
 
   - title: "Public Engagement"
     url: /public_engagement/    
