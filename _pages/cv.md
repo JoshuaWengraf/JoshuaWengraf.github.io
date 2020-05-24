@@ -24,7 +24,7 @@ Publications
 
 Research Projects
 ======
-<ul>{% for post in site.portfolio %}
+<ul>{% for post in site.research_experience %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
