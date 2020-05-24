@@ -1,10 +1,10 @@
 ---
 title: "Incorporating Kinetic Effects on Nernst Advection in Inertial Fusion Simulations"
 excerpt: "For my summer research project I performed simulations to  model laser heated, non- local, one dimensional electron transport in the presence of an applied magnetic field. This work was supervised by Dr Christopher Ridgers.
-<br/><img src='/images/500x300.png'>"
+<br/><img src='FluxLimiter.jpg'>"
 collection: portfolio
 ---
 
 For my summer reserach project I performed simulations to model laser heated, non-local, one dimensional electron transport in the presence of an applied magnetic field. This essentially involved experimenting with different plasma parameters to enhance the confinement. Plasma paremeters were input via a shell script and the simulations were run in Fortran 77.
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='FluxLimiter.jpg'>
