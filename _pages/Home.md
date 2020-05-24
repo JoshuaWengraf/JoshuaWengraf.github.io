@@ -1,5 +1,4 @@
 ---
-permalink: /home/
 title: "About me"
 excerpt: "About me"
 author_profile: true
