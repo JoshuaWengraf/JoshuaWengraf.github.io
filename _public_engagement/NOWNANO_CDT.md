@@ -12,4 +12,4 @@ The NOWNANO CDT Outreach team is a volunteering arm of the NOWNANO CDT programme
 www.graphene-nownano.manchester.ac.uk/outreach/.
 
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/gnownano-logo.png'>
