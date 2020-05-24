@@ -7,3 +7,5 @@ venue: "The University of Manchester, School of Physics and Astronomy"
 date: 2018-01-01
 location: "City, Country"
 ---
+
+Assisted first year students with problems in probability and statistics.
