@@ -24,9 +24,9 @@ Publications
 
 Research Projects
 ======
-{% for post in site.portfolio %}
+<ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
   
 Public Engagement
 ======
