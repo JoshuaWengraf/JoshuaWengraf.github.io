@@ -19,12 +19,14 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  
 
 Research Projects
 ======
-<ul>{% for post in site.portfolio %}
+{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
 Public Engagement
 ======
