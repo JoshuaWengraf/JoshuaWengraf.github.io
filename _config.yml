@@ -255,6 +255,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  #public_engagement
+  - scope:
+      path: ""
+      type: public_engagement
+    values:
+      layout: single
+      author_profile: true
       
 # Sass/SCSS
 sass:
