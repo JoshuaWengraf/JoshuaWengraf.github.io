@@ -1,5 +1,5 @@
 ---
-title: "STEMsoc"
+title: "NOWNANO CDT"
 collection: portfolio
 location: "City, Country"
 ---
