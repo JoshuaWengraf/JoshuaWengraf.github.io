@@ -8,4 +8,4 @@ date: 2018-01-01
 location: "City, Country"
 ---
 
-Assisted first year students with problems in probability and statistics.
+Assisted first year undergraduates with problems in probability and statistics.
