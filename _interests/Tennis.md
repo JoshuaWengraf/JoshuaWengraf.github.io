@@ -1,7 +1,7 @@
 ---
-title: "Magnetophonon Oscillations in Graphene with a Large Applied DC Bias Voltage"
+title: "Tennis"
 excerpt: "For my MSc (by research) project I measured the electron-phonon interaction in graphene spectroscopically, using electrical transport measurements. This work was supervised by Dr Leonid Ponomarenko, Prof. Laurence Eaves, and Prof. Sir Andre Geim."
-collection: portfolio
+collection: interests
 ---
 For my MSc (by research) project I measured magnetophonon oscillations with a large applied DC bias voltage. The idea was to enhance phonon emission by injecting 'hot' charge carriers with energies much larger than the lattice temperature. We instead found we can use the DC bias to tune the energy of the process. This work was supervised by Dr Leonid Ponomarenko, Prof. Laurence Eaves, and Prof. Sir Andre Geim.
 
