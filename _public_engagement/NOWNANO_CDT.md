@@ -8,7 +8,7 @@ excerpt: "The NOWNANO CDT Outreach team is a volunteering arm of the NOWNANO CDT
 ---
 
 
-The NOWNANO CDT Outreach team is a volunteering arm of the NOWNANO CDT programme. In 2018 I showcased graphene research at Science Spectacular and Bluedot Festival.
+The NOWNANO CDT Outreach team is a volunteering arm of the NOWNANO CDT programme. In 2018 I showcased graphene research at [Science Spectacular]( www.engagement.manchester.ac.uk/highlights/manchester_science_festival/science_spectacular/) and Bluedot Festival.
 
 
 <br/><img src='/images/gnownano-logo.png'>
