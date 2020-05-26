@@ -24,25 +24,25 @@ Publications
 
 Research Projects
 ======
-<ul>{% for post in site.portfolio %}
+<ul>{% for post in site.portfolio reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Public Engagement
 ======
-  <ul>{% for post in site.public_engagement %}
+  <ul>{% for post in site.public_engagement reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Interests
 ======
-  <ul>{% for post in site.interests %}
+  <ul>{% for post in site.interests reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
