@@ -1,7 +1,6 @@
 ---
 title: "A Correlated Percolation Model for the Spread of Ash Dieback"
-excerpt: "For my final year MPhys project I developed a simulation in Python to model the spread of ash dieback in the UK. This work was done in collaboration with Daniel Pettitt and supervised by Dr. Ingo Dierking.
-<br/><img src='/images/ChalaraSimulationExample.PNG'> <img src='/images/R(p).png'>"
+excerpt: "For my final year MPhys project I developed a simulation in Python to model the spread of ash dieback in the UK."
 collection: portfolio
 ---
 
