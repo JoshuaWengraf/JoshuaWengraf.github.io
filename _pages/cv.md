@@ -30,7 +30,7 @@ Research Projects
 
 {% include base_path %}
 
-{% for post in site.research_experience reversed%}
+{% for post in site.portfolio reversed%}
   {% include archive-single.html %}
 {% endfor %}
 
