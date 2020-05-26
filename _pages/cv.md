@@ -27,6 +27,13 @@ Research Projects
 <ul>{% for post in site.portfolio reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+{% include base_path %}
+
+{% for post in site.research_experience reversed%}
+  {% include archive-single.html %}
+{% endfor %}
+
   
 Public Engagement
 ======
