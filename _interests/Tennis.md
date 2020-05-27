@@ -4,4 +4,4 @@ excerpt: "For my MSc (by research) project I measured the electron-phonon intera
 collection: interests
 ---
 
-I started competitive tennis at around 12 years old and had of fun growing up with it. I was also captain of the University of Manchester Men's 3rd Team for a number of years.
+I started competitive tennis at around 12 years old and had of fun growing up with it. I was also captain of the University of Manchester Men's 3rd Team for several years.
