@@ -21,11 +21,9 @@ Publications
   {% endfor %}</ul>
   
   
-
 Research Projects
 ======
-
-{% for post in site.portfolio reversed%}
+{% for post in site.research_experience reversed%}
   {% include archive-single.html %}
 {% endfor %}
 
