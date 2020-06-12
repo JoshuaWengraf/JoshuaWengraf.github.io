@@ -3,7 +3,7 @@ title: "Workshop Demonstrator"
 collection: teaching
 type: "Random processes in physics"
 permalink: /teaching/2018_random_processes_in_physics
-venue: "The University of Manchester, School of Physics and Astronomy"
+venue: "School of Physics and Astronomy, The University of Manchester"
 date: 2018-01-01
 location: "City, Country"
 ---
