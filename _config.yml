@@ -176,7 +176,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research_experience:
     output: true
     permalink: /:collection/:path/
   public_engagement:
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research_experience
   - scope:
       path: ""
-      type: portfolio
+      type: research_experience
     values:
       layout: single
       author_profile: true
