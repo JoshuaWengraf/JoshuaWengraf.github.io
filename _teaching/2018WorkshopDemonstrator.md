@@ -2,10 +2,10 @@
 title: "Workshop Demonstrator"
 collection: teaching
 type: "Random processes in physics"
-permalink: /teaching/2017-2019_Teaching
+permalink: /teaching/2018_random_processes_in_physics
 venue: "The University of Manchester, School of Physics and Astronomy"
 date: 2018-01-01
 location: "City, Country"
 ---
 
-Assisted first year undergraduates with problems in probability and statistics.
+In 2018 I assisted first year undergraduates with problems in probability and statistics.
