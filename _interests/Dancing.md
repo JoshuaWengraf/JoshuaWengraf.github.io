@@ -1,7 +1,7 @@
 ---
 title: "Dancing"
 collection: interests
-permalink: /Interests/Tennis
+permalink: /interests/dancing
 location: "City, Country"
 ---
 
