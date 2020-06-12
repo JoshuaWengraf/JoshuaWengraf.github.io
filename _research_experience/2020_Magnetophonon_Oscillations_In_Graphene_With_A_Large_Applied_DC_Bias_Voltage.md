@@ -1,7 +1,7 @@
 ---
 title: "Magnetophonon Oscillations in Graphene with a Large Applied DC Bias Voltage"
 excerpt: "For my MSc project I performed electron-phonon spectroscopy of graphene with electrical transport measurements. "
-permalink: /Magnetophonon_Oscillations_In_Graphene_With_A_Large_Applied_DC_Bias_Voltage/
+permalink: /magnetophonon_oscillations_in_graphene_with_a_large_applied_DC_bias_voltage/
 collection: research_experience
 
 ---
