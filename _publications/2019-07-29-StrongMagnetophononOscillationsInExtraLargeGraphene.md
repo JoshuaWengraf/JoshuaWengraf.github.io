@@ -1,7 +1,7 @@
 ---
 title: "Strong magnetophonon oscillations in extra-large graphene"
 collection: publications
-permalink: 2019-07-29-Strong magnetophonon oscillations in extra-large graphene
+permalink: 2019-07-29-StrongMagnetophononOscillationsInExtraLargeGraphene
 date: 2019-07-29
 venue: 'Nature Communications'
 paperurl: 'https://www.nature.com/articles/s41467-019-11379-3'
