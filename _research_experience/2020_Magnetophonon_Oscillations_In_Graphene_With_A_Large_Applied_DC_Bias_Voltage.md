@@ -1,7 +1,8 @@
 ---
 title: "Magnetophonon Oscillations in Graphene with a Large Applied DC Bias Voltage"
 excerpt: "For my MSc project I performed electron-phonon spectroscopy of graphene with electrical transport measurements. "
-collection: portfolio
+collection: research_experience
+
 ---
 
 For my MSc project I measured magnetophonon oscillations with a large applied DC bias voltage. We found we can use the DC bias voltage to tune the energy of the process. This work was supervised by Dr Leonid Ponomarenko, Prof. Laurence Eaves, and Prof. Sir Andre Geim.
