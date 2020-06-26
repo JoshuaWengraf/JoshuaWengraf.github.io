@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MPhys Physics (1st), <i>The University of Manchester</i>, 2013 - 2017
 * MSc in Physics (by research) (Distinction), <i>Lancaster University</i>, 2018 - 2020
+* MPhys Physics (1st), <i>The University of Manchester</i>, 2013 - 2017
 
 Publications
 ======
